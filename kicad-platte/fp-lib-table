@@ -1,0 +1,4 @@
+
+(fp_lib_table
+  (lib (name "Ibi-Voodoo-Platte")(type KiCad)(uri "$(KIPRJMOD)/Ibi-Voodoo-Platte.pretty")(options "")(descr ""))
+)
