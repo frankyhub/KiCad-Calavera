@@ -2,4 +2,4 @@
 Dia de los Muertos Skulls
 
 
-<img src="pic/Ibi_F_.png"  height="600">
+<img src="pic/Calavera_F.png"  height="600">
