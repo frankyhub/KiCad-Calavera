@@ -1,0 +1,4 @@
+
+(fp_lib_table
+  (lib (name "CalaveraM")(type KiCad)(uri "$(KIPRJMOD)/CalaveraM.pretty")(options "")(descr ""))
+)
