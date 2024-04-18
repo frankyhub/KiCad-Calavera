@@ -9,4 +9,4 @@ Dia de los Muertos Skulls
 
 
 
-![Bild](/pic/CalaveraM_F.png")
+![Bild](pic/CalaveraM_F.png")
