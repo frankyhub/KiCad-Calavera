@@ -8,5 +8,9 @@ Dia de los Muertos Skulls
 
 <img src="pic/CalaveraS_F.png"  height="600">
 
+<img src="pic/Celebracion.png"  height="600">
+
+https://github.com/frankyhub/KiCad-Calavera/blob/main/pic/Celebracion.png
+
 
 
